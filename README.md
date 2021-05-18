@@ -7,15 +7,14 @@ Aplicação Web feita em laravel
 📸
 
 <p align="center">
-  <img src="./github/imagem1.png" style="widht: 400px height: 400px" />
+  <img src="https://i.ibb.co/xXKk4Kk/Imagem1.png" alt="Imagem1" border="0" style="widht: 400px height: 400px">
 </p>
 
 📸
 
 <p align="center">
-  <img src="./github/imagem2.png" style="widht: 400px height: 400px" />
+  <img src="https://i.ibb.co/sJvnWhW/Imagem2.png" alt="Imagem2" border="0" style="widht: 400px height: 400px" />
 </p>
-
 
 ## Requisitos
  ------------
