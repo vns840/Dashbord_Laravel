@@ -6,11 +6,15 @@ Aplicação Web feita em laravel
 
 📸
 
-<img src="/github/imagem1.png">
+<p align="center">
+  <img src="./github/imagem1.png" style="widht: 400px height: 400px" />
+</p>
 
 📸
 
-<img src="/github/imagem2.png">
+<p align="center">
+  <img src="./github/imagem2.png" style="widht: 400px height: 400px" />
+</p>
 
 
 ## Requisitos
